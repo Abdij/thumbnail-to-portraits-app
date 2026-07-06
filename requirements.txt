@@ -1,4 +1,4 @@
-opencv-python>=4.8,<5
+opencv-python-headless>=4.8,<5
 Pillow>=9.5
 streamlit>=1.30
 numpy>=1.24
